@@ -46,7 +46,7 @@ export function AuthForm() {
                         </div>
                     </CardContent>
                     <CardFooter>
-                        <Button className="w-full font-black uppercase">Enviar link mágico</Button>
+                        <Button className="w-full font-bold uppercase">Enviar link mágico</Button>
                     </CardFooter>
                 </form>
             </Card>
